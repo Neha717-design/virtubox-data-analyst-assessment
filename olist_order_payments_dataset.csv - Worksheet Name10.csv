@@ -1,0 +1,11 @@
+1. Which AI tools I used
+Claude (Anthropic)
+
+2. What I used it for
+"Dataset selection, writing and debugging the Python/Pandas data-cleaning script, computing summary statistics, and structuring the analysis and presentation for a management audience."
+
+3. Example where AI helped
+"AI computed the actual payment-type breakdown from the raw data, which surfaced a key finding: installment payments occur exclusively on credit card transactions (avg 3.5 installments vs. exactly 1.0 for every other payment method)."
+
+4. Example where I verified/corrected an AI-generated result
+"I tested the initial processing script against my local file path setup and adjusted the folder configuration before finalizing it, and cross-checked the generated statistics against the raw data to confirm accuracy before including them in the analysis."
